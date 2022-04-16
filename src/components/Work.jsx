@@ -14,7 +14,7 @@ const Work = () => {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
             Work
           </p>
-          <p className='py-6'>// Check out some of my recent work</p>
+          <p className='py-6'> Check out some of my recent work</p>
         </div>
 
 {/* Container */}
@@ -32,12 +32,12 @@ const Work = () => {
                 E-Commerce Website
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://amazon-shop-app.netlify.app' target="_blank">
+                <a href='https://amazon-shop-app.netlify.app' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/PrajwalBorkar/amazon-clone' target="_blank">
+                <a href='https://github.com/PrajwalBorkar/amazon-clone' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -56,12 +56,12 @@ const Work = () => {
                Movie Search Website
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://moviesflix-react-app.netlify.app' target="_blank">
+                <a href='https://moviesflix-react-app.netlify.app' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/PrajwalBorkar/movie-website' target="_blank" >
+                <a href='https://github.com/PrajwalBorkar/movie-website' target="_blank" rel="noopener noreferrer" >
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -79,12 +79,12 @@ const Work = () => {
                 Chat Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://chat-applicati0n.netlify.app' target="_blank">
+                <a href='https://chat-applicati0n.netlify.app' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/PrajwalBorkar/chat-app' target="_blank">
+                <a href='https://github.com/PrajwalBorkar/chat-app' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -102,12 +102,12 @@ const Work = () => {
                 2048 Game 
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://2048-game-app.netlify.app' target="_blank">
+                <a href='https://2048-game-app.netlify.app' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/PrajwalBorkar/2048-Game' target="_blank">
+                <a href='https://github.com/PrajwalBorkar/2048-Game' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -126,12 +126,12 @@ const Work = () => {
                 Password Generator
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://password-generator-apps.netlify.app' target="_blank">
+                <a href='https://password-generator-apps.netlify.app' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/PrajwalBorkar/password-generator' target="_blank">
+                <a href='https://github.com/PrajwalBorkar/password-generator' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -149,12 +149,12 @@ const Work = () => {
                
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://google-keeper-app.netlify.app/' target="_blank">
+                <a href='https://google-keeper-app.netlify.app/' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/PrajwalBorkar/keeper-app' target="_blank">
+                <a href='https://github.com/PrajwalBorkar/keeper-app' target="_blank" rel="noopener noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
