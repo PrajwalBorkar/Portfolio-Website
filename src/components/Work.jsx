@@ -1,6 +1,5 @@
 import React from 'react';
 import game from '../assets/game.png';
-import blog from '../assets/blog.png';
 import chat from '../assets/chat.png';
 import ecom from '../assets/ecommerce.png';
 import movie from '../assets/Movie.png';
