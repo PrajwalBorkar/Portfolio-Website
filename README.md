@@ -22,9 +22,6 @@
     <a href="https://github.com/prajwalborkar/Portfolio-website/issues">Request Feature</a>
 </h3>
 
-## TL;DR
-
-
 ## Built With
 
 My personal portfolio <a href="" target="_blank"></a> which features some of my github projects as well as my resume and technical skills.<br/>
