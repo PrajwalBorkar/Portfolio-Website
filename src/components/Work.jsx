@@ -4,7 +4,7 @@ import chat from '../assets/chat.png';
 import ecom from '../assets/ecommerce.png';
 import pg from '../assets/pg.png';
 import pokedex from '../assets/pokedex.png';
-import snkrs from '../assets/SNKRS.png';
+import snkrs from '../assets/SNKRS.PNG';
 
 const Work = () => {
   return (
